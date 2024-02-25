@@ -39,9 +39,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 
 ## Screenshot
 
-![Your Screenshot Here]
 
-Replace "![Your Screenshot Here]" with your actual screenshot. For example:
+![image](https://github.com/AffanBeg/REACT-skin-care-website/assets/123331455/f84a46ed-8967-45b4-a053-7dcfe613bdb2)
+
+![image](https://github.com/AffanBeg/REACT-skin-care-website/assets/123331455/cc573415-b4b1-4906-93f2-8ecfbe297737)
+
+![image](https://github.com/AffanBeg/REACT-skin-care-website/assets/123331455/3393c428-ca9a-474f-98a3-0a6a7a67419a)
+
 
 ## Deployment
 
