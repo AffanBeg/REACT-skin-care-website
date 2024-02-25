@@ -1,6 +1,6 @@
 # Skin-Care-Website
 
-Welcome to the Skin-Care-Website project! This site is designed to help users find the best skincare routine, providing personalized recommendations and expert advice.
+Welcome to the Skin-Care-Website project! This site is designed to help users find the best skincare routine, providing personalized recommendations and expert advice. This is a Front End website made using REACT.
 
 ## Getting Started
 
@@ -47,14 +47,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 ![image](https://github.com/AffanBeg/REACT-skin-care-website/assets/123331455/3393c428-ca9a-474f-98a3-0a6a7a67419a)
 
 
-## Deployment
 
-For deployment, you can use platforms like Netlify, Vercel, or GitHub Pages. Follow their documentation for specific deployment steps.
-
-## Contributing
-
-We welcome contributions! Please open an issue or submit a pull request for any features, bug fixes, or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
